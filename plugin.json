@@ -1,0 +1,14 @@
+{
+    "id": "player-flash",
+    "name": "player-flash",
+    "description": "Plugin Statistiques",
+    "version": "1.0.0",
+    "url": "https://azuriom.com",
+    "authors": [
+        "flashh"
+    ],
+    "providers": [
+        "\\Azuriom\\Plugin\\PlayerFlash\\Providers\\PlayerFlashServiceProvider",
+        "\\Azuriom\\Plugin\\PlayerFlash\\Providers\\RouteServiceProvider"
+    ]
+}
